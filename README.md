@@ -7,6 +7,6 @@
 
 ![Alt text](Images/2.PNG?raw=true "Picture 1" )
 
-<h3> Screenshot no3 , where we can see the dropdown submenu as horizontally </h3>
+<h3> Screenshot no3 , where we can see the dropdown submenu as Vertically </h3>
 
 ![Alt text](Images/3.PNG?raw=true "Picture 1" )
